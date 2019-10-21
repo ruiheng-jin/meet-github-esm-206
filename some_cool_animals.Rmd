@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Your name here"
+author: "Ruiheng Jin"
 output: html_document
 ---
 
@@ -45,6 +45,16 @@ The organization of this document probably seems strange. That's because it's pa
 - Pika are of order *Lagomorpha* (which also includes rabbits)
 - Pika live in high altitude talus slopes
 - American pika are already disappearing from the Sierra Nevada
+
+#### Ringtail cats
+
+![Example caption](img/ringtail_cat.jpg)
+
+##### Some ringtail cat facts
+
+- They can rotate their hind feet 180 degrees
+- Not endangered, just elusive
+- More like raccoons than cats
 
 ###
 
